@@ -10,4 +10,5 @@ Freezing-Point facilitates the transparency and accessibility of video analysis 
 What's more, FreezingPoint has been validated to reliably and robustly extract freezing events in fear conditionning experiments that can handle several datas as input, videos or tracks files produced by markerless pose estimation software as DeepLabCut or SLEAP, across different protocole, and from video with different quality. In practice, FreezingPoint provides an open-source freezing analysis software with user-friendly interactive visualizations to explore parameters and validate results to keep the user close to his data.</div>
 
 ## Quick tutorial
-https://github.com/gillescourtand/Freezing-Point/issues/1#issue-3370896659
+[https://github.com/gillescourtand/Freezing-Point/issues/1#issue-3370896659
+](https://github.com/user-attachments/assets/664ab984-69e1-4bd6-be5c-2398de85ae66)
