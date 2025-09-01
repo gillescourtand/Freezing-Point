@@ -1,5 +1,6 @@
 # Freezing-Point
 "A User-Friendly Software for Automated Scoring of Freezing Behavior in Rodent Models"
+[![DOI](https://zenodo.org/badge/1047981602.svg)](https://doi.org/10.5281/zenodo.17021350)
 <p align="center">
 <img src="/stock/freezed_mouse-4crop.png">
 </p>
