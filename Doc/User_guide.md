@@ -28,6 +28,9 @@ In this folder we found one csv file per source file with specific analysis, one
 
 <img width="400" height="177" alt="results_files_small" src="https://github.com/user-attachments/assets/bc84f76d-bb10-4aea-b9a6-ca2d8d3ce2e5" />
 
+Click on **Check** on the processing interface to open the visualisation part of the software
+
+![freezingPointv1_check_results](https://github.com/user-attachments/assets/80c4bef8-fb8d-4522-bae6-036504bae3aa)
 
 <div align="justify">
 
