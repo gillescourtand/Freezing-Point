@@ -8,7 +8,7 @@ You may need to exclude part of the scene (timestamp, area outside the experimen
 
 ![freezingPointv1_video_crop](https://github.com/user-attachments/assets/d1e013a9-834d-45c7-8c5e-ddf9451d0aab)
 
-Know you can launch the analysis with the "PROCESS" button
+Know you can launch the analysis with the **PROCESS** button
 
 ## Track analysis from poses track files
 If you have used tracking software [SLEAP](https://github.com/talmolab/sleap) or [DEEPLABCUT](https://github.com/DeepLabCut/DeepLabCut), you can use the results files in CSV format for your freezing analysis.
@@ -21,6 +21,7 @@ Now define the names you have used for your node labels.
 
 ![freezingPointv1_matchLabels](https://github.com/user-attachments/assets/77cbb741-1526-418e-862e-8b6074e08c69)
 
+Now you can launch the analysis by pressing **PROCESS**
 
 <div align="justify">
 
