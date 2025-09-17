@@ -13,6 +13,11 @@ Know you can launch the analysis with the "PROCESS" button
 ## Track analysis from poses track files
 If you have used tracking software [SLEAP](https://github.com/talmolab/sleap) or [DEEPLABCUT](https://github.com/DeepLabCut/DeepLabCut), you can use the results files in CSV format for your freezing analysis.
 
+To start drag and drop your files :
+
+![freezingPointv1_drag_tracks](https://github.com/user-attachments/assets/f7a6ab58-ad74-45d9-bedd-48ab49a7b486)
+
+
 <div align="justify">
 
 
