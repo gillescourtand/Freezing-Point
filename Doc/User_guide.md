@@ -17,7 +17,11 @@ To start drag and drop your files :
 
 ![freezingPointv1_drag_tracks](https://github.com/user-attachments/assets/f7a6ab58-ad74-45d9-bedd-48ab49a7b486)
 
-Now define the names you have used for your node labels.  
+Now define the names you have used for your node labels.
+
+![freezingPointv1_matchLabels](https://github.com/user-attachments/assets/77cbb741-1526-418e-862e-8b6074e08c69)
+
+
 <div align="justify">
 
 
