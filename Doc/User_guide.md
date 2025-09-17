@@ -23,6 +23,13 @@ Now define the names you have used for your node labels.
 
 Now you can launch the analysis by pressing **PROCESS**
 
+When all files are processed a folder named "pixFreezResults" is created in the folder containing source files (video, tracks)
+In this folder we found one csv file per source file with specific analysis, one csv file summarizing the analysis and a json file containing all the values processed for all files.
+
+<img width="400" height="177" alt="results_files_small" src="https://github.com/user-attachments/assets/bc84f76d-bb10-4aea-b9a6-ca2d8d3ce2e5" />
+
+
 <div align="justify">
+
 
 
