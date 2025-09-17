@@ -11,6 +11,8 @@ You may need to exclude part of the scene (timestamp, area outside the experimen
 Know you can launch the analysis with the "PROCESS" button
 
 ## Track analysis from poses track files
-<div align="justify">If you have used tracking software ([SLEAP](https://github.com/talmolab/sleap) and [DEEPLABCUT](https://github.com/DeepLabCut/DeepLabCut)), you can use the results files in CSV format for your freezing analysis.
-</div>
+If you have used tracking software [SLEAP](https://github.com/talmolab/sleap) or [DEEPLABCUT](https://github.com/DeepLabCut/DeepLabCut), you can use the results files in CSV format for your freezing analysis.
+
+<div align="justify">
+
 
