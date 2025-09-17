@@ -13,3 +13,5 @@ What's more, FreezingPoint has been validated to reliably and robustly extract f
 ## Quick tutorial
 [https://github.com/gillescourtand/Freezing-Point/issues/1#issue-3370896659
 ](https://github.com/user-attachments/assets/664ab984-69e1-4bd6-be5c-2398de85ae66)
+
+See [USER GUIDE](Doc/User_guide.md) for more details
