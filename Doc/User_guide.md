@@ -32,6 +32,11 @@ Click on **Check** on the processing interface to open the visualisation part of
 
 ![freezingPointv1_check_results](https://github.com/user-attachments/assets/80c4bef8-fb8d-4522-bae6-036504bae3aa)
 
+Now you can refine freezing threshold by selecting sequences
+
+![Uploading freezing_point_threshold_refine.gif…]()
+
+
 <div align="justify">
 
 
