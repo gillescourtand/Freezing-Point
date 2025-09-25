@@ -34,8 +34,7 @@ Click on **Check** on the processing interface to open the visualisation part of
 
 Now you can refine freezing threshold by selecting sequences
 
-![freezing_point_threshold_refine](https://github.com/user-attachments/assets/1d1e49f5-7407-402f-9d12-5adca2836103)
-
+![freezing_point_threshold_refine](https://github.com/user-attachments/assets/adcbe928-7b54-4cf4-b0a5-e2118bcdbdbb)
 
 
 <div align="justify">
