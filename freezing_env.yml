@@ -1,0 +1,26 @@
+name: freezingpoint
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
+dependencies:
+
+  - pandas=2.2.3
+  - pip=24.2
+  - psutil=5.9.0
+  - pyqt=5.15.10
+  - pyqtgraph=0.13.7
+  - python=3.12.7=hce54a09_0_cpython
+  - scikit-image=0.25.2
+  - scikit-learn=1.6.1
+  - scipy=1.14.1
+  
+  - pip:
+      
+      - keyboard==0.13.5
+      - opencv-python==4.11.0.86
+      
+prefix: C:\Users\gille\anaconda3\envs\freezingpoint
