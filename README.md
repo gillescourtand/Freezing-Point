@@ -15,3 +15,5 @@ What's more, FreezingPoint has been validated to reliably and robustly extract f
 ](https://private-user-images.githubusercontent.com/45424082/484016882-664ab984-69e1-4bd6-be5c-2398de85ae66.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTkxNDcyNTgsIm5iZiI6MTc1OTE0Njk1OCwicGF0aCI6Ii80NTQyNDA4Mi80ODQwMTY4ODItNjY0YWI5ODQtNjllMS00YmQ2LWJlNWMtMjM5OGRlODVhZTY2Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTI5VDExNTU1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE4NTE2NDg4YThiMDQ1YTNkNDE4ODZiMGZiYjNmN2JlMjk1YTkzNWUzY2NkMTlkZWQ3MjdiMzUxZGMxZjI4ZTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.6JMBRFNyQAh3PeTH6VDYljSTpqK1BL0rsZ33gsPau2w)
 
 See [USER GUIDE](Doc/User_guide.md) for more details
+
+To cite the software, please use DOI [![https://doi.org/10.5281/zenodo.17022402]((https://zenodo.org/badge/DOI/10.5281/zenodo.17022402.svg)](https://doi.org/10.5281/zenodo.17022402)
