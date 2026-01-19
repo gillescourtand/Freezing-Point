@@ -16,4 +16,4 @@ What's more, FreezingPoint has been validated to reliably and robustly extract f
 
 See [USER GUIDE](Doc/User_guide.md) for more details
 
-To cite the software, please use DOI [![doi.org/10.5281/zenodo.17022402](https://zenodo.org/badge/DOI/10.5281/zenodo.17022402.svg)](https://doi.org/10.5281/zenodo.17022402)
+To cite the software, please use DOI [![https://doi.org/10.5281/zenodo.17022402](https://zenodo.org/badge/DOI/10.5281/zenodo.17022402.svg)](https://doi.org/10.5281/zenodo.17022402)
