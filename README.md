@@ -17,4 +17,26 @@ What's more, FreezingPoint has been validated to reliably and robustly extract f
 See [USER GUIDE](Doc/User_guide.md) for more details </br> 
 videos for test and sleap model for pose estimation can be download on HuggingFace: https://huggingface.co/gillescourtand
 
-To cite the software, please use DOI [![https://doi.org/10.5281/zenodo.17022402](https://zenodo.org/badge/DOI/10.5281/zenodo.17022402.svg)](https://doi.org/10.5281/zenodo.17022402)
+To cite the software, please use DOI [![https://doi.org/10.5281/zenodo.17022402](https://zenodo.org/badge/DOI/10.5281/zenodo.17022402.svg)](https://doi.org/10.5281/zenodo.17022402) </br>
+
+## How to INSTALL
+<p>
+- install miniconda : https://www.anaconda.com/docs/getting-started/miniconda/main </br>
+- download freezing_env.yml </br>
+- open an anaconda prompt </br>
+- goto the place where you download the yml file: cd Downloads </br>
+- enter the command: conda env create -f freezing_env. yml </br>
+- install git: https://git-scm.com/ </br>
+- launch git gui </br>
+- click on the menu "clone existing directory" </br>
+- in your internet navigator go to https://github.com/gillescourtand/Freezing-Point/tree/main/v1.0.2 </br>
+- copy path: on the project page: <> Code/clone using the web url (or dowload zip file) </br>
+- paste into "source location" in git gui </br>
+- indicate where you want to create this folder </br>
+- click on "clone" </br>
+
+In anaconda prompt: </br>
+- go to the folder you just created: cd: path/to/project_folder </br>
+- launch: python FreezingPoint_1_0_2.py </br>
+</p>
+
