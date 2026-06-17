@@ -1,6 +1,9 @@
 # Freezing-Point
 "A User-Friendly Software for Automated Scoring of Freezing Behavior in Rodent Models"
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17022402.svg)](https://doi.org/10.5281/zenodo.17022402)
+[![Latest version](https://img.shields.io/github/v/release/gillescourtand/Freezing-Point?include_prereleases&label=latest)](https://github.com/gillescourtand/Freezing-Point/releases)
+
 <p align="center">
 <img src="/stock/freezed_mouse-4crop.png">
 </p>
