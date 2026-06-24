@@ -4,6 +4,18 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17022402.svg)](https://doi.org/10.5281/zenodo.17022402)
 [![Latest version](https://img.shields.io/github/v/release/gillescourtand/Freezing-Point?include_prereleases&label=latest)](https://github.com/gillescourtand/Freezing-Point/releases)
 
+---
+
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Quick tutorial](#quick-tutorial)
+3. [How to install](#how-to-install)
+ 
+---
+
+## Introduction
+
 <p align="center">
 <img src="/stock/freezed_mouse-4crop.png">
 </p>
