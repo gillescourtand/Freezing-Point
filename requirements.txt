@@ -1,0 +1,11 @@
+# FreezingPoint - runtime dependencies (Python 3.10 - 3.13)
+# Install:  pip install -r requirements.txt
+PyQt5>=5.15.5
+pyqtgraph>=0.13.3
+# headless build: the full opencv-python bundles its own Qt plugins that clash with PyQt5 (Linux),
+# and the application never opens an OpenCV window
+opencv-python-headless>=4.8
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+psutil>=5.9
